@@ -1,5 +1,5 @@
 # Colorful-SFX
 
-Create beautiful sfx melodies at your finger tips !!
+Create beautiful SFX melodies at your finger tips !!
 
 made with paper.js and howler.js
